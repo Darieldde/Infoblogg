@@ -1,0 +1,2 @@
+# Infoblogg
+Informe Sobre computadoras
